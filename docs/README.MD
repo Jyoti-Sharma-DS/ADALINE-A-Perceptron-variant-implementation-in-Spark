@@ -1,7 +1,7 @@
 
 # Documentations 
 
-MetCS777_finalProject.pptx : Project Presentation
+
 
 SGD_AdalinePerceptron_0.001.html : Contains training results for model trained with 0.001 learning rate.
 
