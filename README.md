@@ -1,6 +1,6 @@
-# Final Term Project: MET CS 777 - Big Data Analytics
+# Big Data Analytics
 
-This repository contains the final term project for course CS 777.
+This project contains implementation of Adaptive Linear Neuron from scratch in spark.
 
 ## Describe here your project
 
